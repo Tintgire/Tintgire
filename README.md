@@ -9,6 +9,23 @@
   📩 <strong>Disponible pour missions freelance & opportunités CDI</strong>
 </p>
 
+<p align="center">
+  <a href="mailto:boidinhugo14@gmail.com"><strong>📬 Discutons de votre projet →</strong></a>
+</p>
+
+<h2 align="center">
+  <sub>⚡ <strong>+4 ans d'expérience</strong> · 🚀 <strong>+6 projets livrés</strong> · 🌍 <strong>Clients FR & EU</strong></sub>
+</h2>
+
+---
+
+## 🎯 Ce que je peux faire pour vous
+
+- **Sites & landing pages premium** — Next.js, animations 3D, design soigné, SEO solide
+- **Applications mobiles iOS/Android** — React Native, paiements, géoloc, notifications
+- **SaaS sur-mesure** — back-end robuste, dashboards, auth, billing Stripe
+- **Agents IA & automation** — OpenAI, Claude, n8n, workflows complexes, génération de contenu
+
 ---
 
 ## 🛠️ Stack actuelle
@@ -32,10 +49,12 @@
 
 ---
 
-## 📈 Stats
+## 📈 Parcours
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tintgire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tintgire&layout=compact&theme=tokyonight&hide_border=true)
+- **2022** — Début dev fullstack
+- **2022** — Premiers projets clients
+- **2026** — Lancement de **Studio Boidin**
+- **Aujourd'hui** — AI Product Engineer · freelance & ouvert aux opportunités CDI
 
 ---
 
@@ -43,11 +62,11 @@
 
 🌐 **Portfolio** — [portfolio-hugo-ten.vercel.app](https://portfolio-hugo-ten.vercel.app)  
 💼 **LinkedIn** — [hugoboidin](https://www.linkedin.com/in/hugoboidin)  
-📩 **Email** — boidinhugo14àgmail.com
+📩 **Email** — boidinhugo14@gmail.com
 
 ---
 
 <p align="center">
   ⚡ La plupart de mes contributions actuelles sont sur des repos privés clients.<br>
-  Les repos publics ici sont des projets perso, expérimentations et open-source ou accepter par les clients.
+  Les repos publics ici sont des projets perso, expérimentations open-source ou contributions client autorisées.
 </p>
