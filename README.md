@@ -116,7 +116,7 @@
 
 🌐 **Portfolio** — [portfolio-hugo-ten.vercel.app](https://portfolio-hugo-ten.vercel.app)  
 💼 **LinkedIn** — [hugoboidin](https://www.linkedin.com/in/hugoboidin)  
-📩 **Email** — boidinhugo14@gmail.com
+📩 **Email** — hugolsd18@gmail.com
 
 ---
 
